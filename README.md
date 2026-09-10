@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%23E8EAEC&countColor=%23C9AEB5">
+</div>
 <img width="680" height="4" alt="Untitled90_20260909212019" src="https://github.com/user-attachments/assets/a42f21d7-6492-41b7-8e85-10b81925382c" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=FF9EB1&center=true&multiline=true&width=435&lines=After+a+year+in+a+Viltrumite+prison%2C;I+could+use+a+warm-up.)](https://git.io/typing-svg)
