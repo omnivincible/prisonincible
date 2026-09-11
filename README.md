@@ -2,7 +2,10 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%23E8EAEC&countColor=%23C9AEB5">
 </div>
 <img width="680" height="4" alt="Untitled90_20260909212019" src="https://github.com/user-attachments/assets/a42f21d7-6492-41b7-8e85-10b81925382c" />
+<img width="734" height="114" alt="Untitled102_20260910210825" src="https://github.com/user-attachments/assets/94a022b1-333b-49af-82a7-2720208a2d7c" />
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=FF9EB1&center=true&multiline=true&width=435&lines=After+a+year+in+a+Viltrumite+prison%2C;I+could+use+a+warm-up.)](https://git.io/typing-svg)
 
 <img width="1600" height="1680" alt="Untitled98_20260909211850" src="https://github.com/user-attachments/assets/4c130e2e-2dc4-4241-bebe-d55818ec0d83" />
@@ -11,4 +14,6 @@
 
 <div align="center">
 <img width="400" height="400" alt="Untitled88_20260909212217" src="https://github.com/user-attachments/assets/65d56de2-8c61-4078-ad8a-a88b71b0bdd8" />
+  <img width="734" height="114" alt="Untitled102_20260910210831" src="https://github.com/user-attachments/assets/9376f2c6-5e7a-4932-8069-5d90e25ad05b" />
+
 <img width="680" height="4" alt="Untitled90_20260909212019" src="https://github.com/user-attachments/assets/9cbc9e97-3b31-4404-8a3b-6e30857f8ce7" />
